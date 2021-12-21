@@ -21,16 +21,6 @@
   </td>
 </table> <br>
 
-## 🏆 Achievements
-<table align="center">
-  <td>
-    👨🏻‍🎓 Pursuing Game Design Master Course from Game Design School, Finland. <br>
-    👨🏻‍🎓 Pursuing BSc in Programming and Data Science from IIT Madras. <br>
-    👨🏻‍🎓 Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
-    🎓 Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br>
-  </td>
-</table> <br>
-
 ## 👨🏻‍💼 Work Experience
 <table align="center">
   <td>
