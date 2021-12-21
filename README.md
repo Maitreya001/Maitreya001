@@ -36,13 +36,7 @@
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maitreya001&show_icons=true&theme=jolly" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maitreya001&theme=jolly" />
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maitreya001&count_private=true&theme=jolly&layout=compact" alt="Maitreya001" />
-  </p>
-</table>
-
-
-
-<details align="center">
+    <details align="center">
    <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
         <br>
@@ -52,6 +46,13 @@
         <br>
     </p>
 </details>
+    
+  </p>
+</table>
+
+
+
+
 <br>
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
  <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/C%2B%2B.svg" width="40px"/>
