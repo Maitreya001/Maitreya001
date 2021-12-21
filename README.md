@@ -51,17 +51,19 @@
 </table>
 
 
-
-
 <br>
-<p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
- <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/C%2B%2B.svg" width="40px"/>
- <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/C.svg" width="40px"/>
- <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/Google%20Cloud.svg" width="40px"/>
- <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/HTML-5.svg" width="40px"/>
- <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/Java.svg" width="40px"/>
- <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/Python.svg" width="40px"/>
- <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/R.svg" width="40px"/>
+<p>
+<h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px</h2><br>
+ 
+ <a> <img src="/IMG/C.svg" width="40px"></a>
+ <a> <img src="/IMG/C%2B%2B.svg" width="40px"> </a> 
+ <a> <img src="/IMG/Google%20Cloud.svg" width="40px"/></a>
+ <a> <img src="/IMG/HTML-5.svg" width="40px"/></a>
+ <a> <img src="/IMG/Java.svg" width="40px"/></a>
+ <a> <img src="/IMG/Python.svg" width="40px"/></a>
+ <a> <img src="/IMG/R.svg" width="40px"></a>
+ 
+ </p>
 
 
 
