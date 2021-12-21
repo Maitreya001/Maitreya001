@@ -43,7 +43,7 @@
 
 
 <details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
+   
     <p align="center">
         <br>
         <!-- Activity Widget -->
