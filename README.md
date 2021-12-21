@@ -78,7 +78,7 @@
  
 <div align="center">
   <h4>🏆 Github Profile Trophies</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Maitreya001/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=Maitreya001&theme=monokai&row=1&column=8">
   </a>
 </div><hr>
