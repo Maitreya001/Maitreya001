@@ -62,7 +62,7 @@
  <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/Python.svg" width="40px"/>
  <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/R.svg" width="40px"/>
 
-<br>
+
 
 
 
