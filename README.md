@@ -70,7 +70,7 @@
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='pics/javascript.svg'></a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='pics/typescript.svg'></a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='pics/c.svg'></a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='pics/cpp.svg'></a>
+<a href= https://github.com/Maitreya001/Maitreya001/blob/main/IMG/C%2B%2B.svg > <img width ='32px' src ='pics/cpp.svg'></a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='pics/python.svg'></a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='pics/nodejs.svg'></a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='pics/reactjs.svg'></a>
