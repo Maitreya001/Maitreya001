@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?style=flat&logo=Linkedin&logoColor=0072b1&link=https://www.linkedin.com/in/maitreyashelare)](www.linkedin.com/in/maitreyashelare)
 
 <h1 align="center"> <br>
-  <img src="https://github.com/Maitreya001/maitreyashelare/blob/main/GIF/Hi%20emoji.gif" width="29px"/>
+  <img src="https://github.com/Maitreya001/Maitreya001/blob/main/GIF/Hi%20emoji.gif" width="29px"/>
   Greetings , I am Maitreya.
 </h1>
 
