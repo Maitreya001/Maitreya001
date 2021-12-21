@@ -74,30 +74,12 @@
 
 <br>
 
-
-
-
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
-<p align="left">
-<div class="footer" id="top3">
-  <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
-   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></a>
-    <a href="https://www.twitter.com/harshchhabra37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
-    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
-  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh"></a>
-  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
-  
-  </div>
-</p>
 <p align="center"> 
  
 <div align="center">
   <h4>🏆 Github Profile Trophies</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai&row=1&column=8">
+   <img src="https://github-profile-trophy.vercel.app/?username=Maitreya001&theme=monokai&row=1&column=8">
   </a>
 </div><hr>
 
@@ -112,16 +94,6 @@
 
 
 
-
--------------------------------------------------------------------------------------------
-# My trash
-|  |
-| :----------------------- |
-| Pursuing BSc in Programming and Data Science from IIT Madras. |
-| Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE. |
-| Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. 
-|🤞  I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). |
----------------------
 
 
 <!---
