@@ -40,7 +40,7 @@
   </p>
 </table>
 
-![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=Maitreya001&theme=dracula) <br> <br>
+
 
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
