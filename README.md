@@ -64,6 +64,7 @@
 </details>
 <br>
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
+ <img src="https://github.com/Maitreya001/Maitreya001/blob/main/IMG/C%2B%2B.svg" width="29px"/>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'></a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'></a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='pics/bootstrap.svg'></a>
