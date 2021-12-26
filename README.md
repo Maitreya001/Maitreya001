@@ -3,7 +3,7 @@
 [![Follower Count](https://img.shields.io/github/followers/MaitreyaShelare?label=Followers&color=dc5cc4&style=flat)](https://github.com/MaitreyaShelare?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Maitreya001&color=dc5cc4&style=flat)](https://github.com/MaitreyaShelare) 
 [![Twitter Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?&style=flat&logo=twitter&link=https://twitter.com/maitreyashelare)](https://twitter.com/maitreyashelare)
-[![Linkedin Badge](https://img.shields.io/badge/-MaitreyaShelare-43dc5cc4?style=flat&logo=Linkedin&logoColor=dc5cc4&link=https://www.linkedin.com/in/maitreyashelare)](https://www.linkedin.com/in/maitreyashelare)
+[![Linkedin Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?style=flat&logo=Linkedin&logoColor=dc5cc4&link=https://www.linkedin.com/in/maitreyashelare)](https://www.linkedin.com/in/maitreyashelare)
 [![Gmail Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?style=flat&logo=Gmail&link=mailto:hawthronen@gmail.com)](mailto:hawthronen@gmail.com)
 
 <h1 align="center"> <br>
