@@ -16,7 +16,6 @@
 ## 📝 My Educational Qualification
 <table align="center">
   <td>
-    👨🏻‍🎓 Pursuing Machine Learning Engineer Path from Google Cloud. <br>
     👨🏻‍🎓 Pursuing BS in Programming and Data Science from IIT Madras. <br>
     👨🏻‍🎓 Pursuing BE in Electronics and Telecommunications from University of Mumbai. <br>
     🎓 Completed schooling from RN Podar School, Mumbai. <br>
