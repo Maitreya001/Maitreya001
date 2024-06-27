@@ -14,13 +14,6 @@
 [![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%43dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 
-<table align="center">
-  <td>
-<!--     👨🏻‍🎓 Pursuing Bachelors in Data Science and Application from IIT Madras. <br> ## 📝 My Educational Qualification -->
-<!--     👨🏻‍🎓 Pursuing BE in Electronics and Telecommunications from University of Mumbai. <br> -->
-<!--     🎓 Completed schooling from RN Podar School, Mumbai. <br> -->
-  </td>
-</table> <br>
 
 
 ## My GitHub Statistics
