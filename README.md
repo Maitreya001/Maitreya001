@@ -16,20 +16,12 @@
 ## 📝 My Educational Qualification
 <table align="center">
   <td>
-    👨🏻‍🎓 Pursuing BS in Programming and Data Science from IIT Madras. <br>
+    👨🏻‍🎓 Pursuing Bachelors in Data Science and Application from IIT Madras. <br>
 <!--     👨🏻‍🎓 Pursuing BE in Electronics and Telecommunications from University of Mumbai. <br> -->
-    🎓 Completed schooling from RN Podar School, Mumbai. <br>
+<!--     🎓 Completed schooling from RN Podar School, Mumbai. <br> -->
   </td>
 </table> <br>
 
-## 👨🏻‍💼 My Work Experience
-<table align="center">
-  <td>
-    👨🏻‍💻 IIT Hackathon Auditorium Coordinator at PanIIT Alumni India. <br>
-    👨🏻‍💻 Publicity Volunteer at PanIIT Alumni India. <br>
-    👨🏻‍💻 Internet of Things Intern at EdVerb Technologies. <br>
-  </td>
-</table> <br>
 
 ## My GitHub Statistics
 
@@ -37,8 +29,6 @@
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaitreyaShelare&show_icons=true&theme=vue" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaitreyaShelare&theme=vue" />
-    <details align="center">
-
 </table>
 
 
