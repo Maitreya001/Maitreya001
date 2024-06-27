@@ -38,17 +38,7 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaitreyaShelare&show_icons=true&theme=vue" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaitreyaShelare&theme=vue" />
     <details align="center">
-   <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="My GitHub Metrics"
-                src="https://metrics.lecoq.io/MaitreyaShelare?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta" />
-        <br>
-    </p>
-</details>
-    
-  </p>
+
 </table>
 
 
@@ -72,14 +62,6 @@
  
  </p> <br>
  
-## My Hobbies
-
-<table>
-  <td>
-    👟 Track and Field Athlete. <br>
-    🎹 Self-Taught Pianist. <br>
-  </td>  
-</table> <br>
 
 
 
